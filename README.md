@@ -1,14 +1,13 @@
 # DaniTec
-**Bem vindos ao meu perfil** 💻
+**Bem vindos ao meu perfil** 💚
 
 Estou estudando no [Alura](https://www.alura.com.br/)
 
 Meu nome é **Daniela**,
-sou professora e estudante de tecnologia 💚
+sou professora e estudante de tecnologia 💻
 
-Estou me desenvolvendo e aprimorando meus conhecimentos na linguagem JavaScript 
-
-Estou utilizazndo o esse espaço para organizar e compartilhar meus projetos desenvolvidos.
+Estou me desenvolvendo e aprimorando meus conhecimentos na linguagem JavaScript, 
+estou utilizazndo o esse espaço para organizar e compartilhar meus projetos desenvolvidos.
 
 Para entrar em contato comigo 📧
 
