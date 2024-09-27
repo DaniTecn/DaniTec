@@ -3,8 +3,8 @@
 
 Estou estudando no [Alura](https://www.alura.com.br/)
 
-Meu nome é **Daniela**
-Sou professora e estudante de tecnologia 💚
+Meu nome é **Daniela**,
+sou professora e estudante de tecnologia 💚
 
 Estou me desenvolvendo e aprimorando meus conhecimentos na linguagem JavaScript 
 
