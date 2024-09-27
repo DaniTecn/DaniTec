@@ -1,7 +1,7 @@
 # DaniTec
 **Bem vindos ao meu perfil** 💚
 
-Estou estudando no [Alura](https://www.alura.com.br/)
+Estudo no [Alura](https://www.alura.com.br/)
 
 Meu nome é **Daniela**,
 sou professora e estudante de tecnologia 💻
