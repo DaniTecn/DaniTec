@@ -6,8 +6,8 @@ Estudo no [Alura](https://www.alura.com.br/)
 Meu nome é **Daniela**,
 sou professora e estudante de tecnologia 💻
 
-Estou me desenvolvendo e aprimorando meus conhecimentos na linguagem JavaScript, 
-estou utilizazndo o esse espaço para organizar e compartilhar meus projetos desenvolvidos.
+Estou desenvolvendo e aprimorando meus conhecimentos na linguagem JavaScript, 
+estou utilizazndo esse espaço para organizar e compartilhar meus projetos desenvolvidos.
 
 Para entrar em contato comigo 📧
 
